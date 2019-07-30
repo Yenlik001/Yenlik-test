@@ -1,1 +1,0 @@
-# Yenlik-test
