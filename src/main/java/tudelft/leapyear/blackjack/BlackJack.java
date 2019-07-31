@@ -1,4 +1,4 @@
-package tudelft.blackjack;
+package tudelft.leapyear.blackjack;
 
 public class BlackJack {
 
